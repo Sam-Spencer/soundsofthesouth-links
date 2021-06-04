@@ -4,7 +4,7 @@ title: "GCBDA Clinic"
 author: "Parker Peterson"
 categories: documentation
 tags: [clinic]
-image: cuba-1.jpg
+image: sax.jpg
 ---
 
 [Gulf Coast Band Director's Association Clinic](http://gcbda.org)
