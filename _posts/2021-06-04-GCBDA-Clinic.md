@@ -2,7 +2,7 @@
 layout: post
 title: "GCBDA Clinic"
 author: "Parker Peterson"
-categories: documentation
+categories: sample
 tags: [clinic]
 image: sax.jpg
 ---
