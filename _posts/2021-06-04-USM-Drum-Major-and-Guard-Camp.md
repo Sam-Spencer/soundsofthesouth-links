@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USM, Drum Major and Guard Camp"
+title: "USM Drum Major and Guard Camp"
 author: "Parker Peterson"
 categories: music
 tags: [camp,audition]
